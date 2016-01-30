@@ -1,7 +1,7 @@
 {
-  "name": "reepsy-webpack-react",
+  "name": "academia-front",
   "version": "0.0.0",
-  "description": "A Webpack React project generator used by Reepsy.",
+  "description": "Front-end del proyecto de Academia de Matemáticas de la Unicaribe",
   "main": "index.js",
   "scripts": {
     "test": "test",
@@ -41,8 +41,10 @@
     "baobab": "^2.1.1",
     "baobab-react": "^1.0.0",
     "classnames": "^2.2.1",
+    "material-ui": "^0.14.3",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
+    "react-tap-event-plugin": "^0.2.2",
     "superagent": "^1.4.0",
     "superagent-jsonp": "0.0.6"
   }

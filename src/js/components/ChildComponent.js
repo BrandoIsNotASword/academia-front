@@ -16,7 +16,7 @@ class ChildComponent extends Component {
         <p>{text}</p>
         <img src={doge} alt="Doge" onClick={this.handleClick.bind(this)} />
       </div>
-    ); 
+    );
   }
 
   handleClick() {
